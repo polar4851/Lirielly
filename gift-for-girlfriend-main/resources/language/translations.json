@@ -1,0 +1,75 @@
+{
+  "globals": {
+    "name": "DANIELLE LOPES"
+  },
+  "pt-br": {
+    "index": {
+      "title": "VOCÊ ME AMA?",
+      "btnYes": "SIM",
+      "btnNo": "NÃO",
+      "rejectMessage": "SE NÃO ME AMA APENAS ME MAMA"
+    },
+    "presente": {
+      "title": "UMA FLOR PARA OUTRA FLOR, PARABÉNS MEU AMOR, EU TE AMO!"
+    },
+    "errors": {
+      "loadTranslations": "Erro ao carregar o arquivo de traduções"
+    }
+  },
+  "en-us": {
+    "index": {
+      "title": "DO YOU LOVE ME?",
+      "btnYes": "YES",
+      "btnNo": "NO",
+      "rejectMessage": "IF YOU DON'T LOVE ME, JUST LEAVE ME ALONE"
+    },
+    "presente": {
+      "title": "A FLOWER FOR ANOTHER FLOWER, HAPPY BIRTHDAY MY LOVE, I LOVE YOU!"
+    },
+    "errors": {
+      "loadTranslations": "Error loading the translation file"
+    }
+  },
+  "zh-cn": {
+    "index": {
+      "title": "你爱我吗?",
+      "btnYes": "是的",
+      "btnNo": "不",
+      "rejectMessage": "如果你不爱我，请离开我"
+    },
+    "presente": {
+      "title": "一朵花送给另一朵花，生日快乐，我爱你！"
+    },
+    "errors": {
+      "loadTranslations": "加载翻译文件时出错"
+    }
+  },
+  "ru-ru": {
+    "index": {
+      "title": "ТЫ ЛЮБИШЬ МЕНЯ?",
+      "btnYes": "ДА",
+      "btnNo": "НЕТ",
+      "rejectMessage": "ЕСЛИ ТЫ МЕНЯ НЕ ЛЮБИШЬ, ПРОСТО ОСТАВЬ МЕНЯ В ПОКОЕ"
+    },
+    "presente": {
+      "title": "ЦВЕТОК ДЛЯ ДРУГОГО ЦВЕТКА, С ДНЁМ РОЖДЕНИЯ, МОЯ ЛЮБОВЬ, Я ТЕБЯ ЛЮБЛЮ!"
+    },
+    "errors": {
+      "loadTranslations": "Ошибка при загрузке файла перевода"
+    }
+  },
+  "de-de": {
+    "index": {
+      "title": "LIEBST DU MICH?",
+      "btnYes": "JA",
+      "btnNo": "NEIN",
+      "rejectMessage": "WENN DU MICH NICHT LIEBST, LASS MICH EINFACH IN RUHE"
+    },
+    "presente": {
+      "title": "EINE BLUME FÜR EINE ANDERE BLUME, ALLES GUTE ZUM GEBURTSTAG MEINE LIEBE, ICH LIEBE DICH!"
+    },
+    "errors": {
+      "loadTranslations": "Fehler beim Laden der Übersetzungsdatei"
+    }
+  }
+}
